@@ -1,5 +1,5 @@
 const mongoose =require('mongoose')
-const connectionstring ='mongodb+srv://NodeExpressProject:NodeExpressProject321@ttt.2frh5xa.mongodb.net/?retryWrites=true&w=majority'
+const connectionstring ='MONGO_URI'
 
 
 
